@@ -102,3 +102,9 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+.idea/
+
+#### Repo specific stuff
+images/
+manifest.json
