@@ -33,7 +33,7 @@ model.compile(
 )
 ```
 
-###640x480 greyscale
+### 640x480 greyscale
 
 | Image Count | Batch Size | Epochs | Loss | Accuracy |
 |-------------|------------|--------|------|----------|
@@ -48,7 +48,7 @@ model.compile(
 | 2,000 | 15 | 15 | 1.3593 | 0.7175 |
 | 2,000 | 15 | 20 | 1.5665 | 0.6950 |
 
-###640x480 greyscale, include mirrored images
+### 640x480 greyscale, include mirrored images
 
 | Image Count | Batch Size | Epochs | Loss | Accuracy |
 |-------------|------------|--------|------|----------|
