@@ -1,5 +1,8 @@
 # HornsOrNoHorns
 
+![HA](https://github.com/VW-Stephen/HornsOrNoHorns/blob/master/haaaaa.png "Deergurl")
+![LIT](https://github.com/VW-Stephen/HornsOrNoHorns/blob/master/tagger.png "Deerboi")
+
 ## Image normalization
 Within a directory that contains copies of the raw images, run `mogrify -scale 'wXh!' -color Gray *` where
 `w` and `h` are the desired dimensions to scale images.
