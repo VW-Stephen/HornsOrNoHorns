@@ -1,3 +1,3 @@
 keras==2.0.8
-pillow==6.2.0
+pillow==10.0.1
 pyglet==1.3.0
